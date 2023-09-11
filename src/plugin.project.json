@@ -1,0 +1,12 @@
+{
+  "name": "CrosswalkPlugin",
+  "tree": {
+    "$className": "Folder",
+    "lib": {
+      "$path": "./lib"
+    },
+    "main": {
+      "$path": "./main.client.lua"
+    }
+  }
+}
